@@ -1,6 +1,8 @@
 <div align="center">
 
-# 📚 Learning Software
+<img src="./assets/logo.svg" alt="Learning Software Logo" width="64" height="64" />
+
+# Learning Software
 
 ### *The Interactive Book to Master Software Engineering*
 
@@ -17,7 +19,7 @@
 
 ---
 
-## 🎯 What is Learning Software?
+## What is Learning Software?
 
 **Learning Software** is an interactive learning platform designed to help developers master software engineering concepts through hands-on practice. Unlike traditional tutorials or documentation, our platform combines rich educational content with real-time code execution, allowing you to learn by doing.
 
@@ -25,9 +27,9 @@ Whether you're preparing for technical interviews, upskilling for a new role, or
 
 ---
 
-## ✨ Features
+## Features
 
-### 📖 Diverse Courses in Software Engineering
+### Diverse Courses in Software Engineering
 
 Access a comprehensive library of courses covering everything from Data Structures & Algorithms to System Design, Machine Learning, DevOps, and more.
 
@@ -39,7 +41,7 @@ Access a comprehensive library of courses covering everything from Data Structur
 
 ---
 
-### 💻 Code & Learn - Interactive Code Execution
+### Code & Learn - Interactive Code Execution
 
 Practice coding directly within the platform. Write, run, and test your code with our built-in sandbox environment. Solve LeetCode-style problems and get instant feedback.
 
@@ -51,7 +53,7 @@ Practice coding directly within the platform. Write, run, and test your code wit
 
 ---
 
-### 🎨 Create Your Own Courses
+### Create Your Own Courses
 
 Have expertise to share? Create and publish your own courses with our intuitive course builder. Structure your content, add code examples, and reach learners worldwide.
 
@@ -63,7 +65,7 @@ Have expertise to share? Create and publish your own courses with our intuitive 
 
 ---
 
-### 📓 Interactive Notebooks
+### Interactive Notebooks
 
 Work with Jupyter-style notebooks directly in the browser. Experiment with code, visualize data, and document your learning journey in one place.
 
@@ -75,7 +77,7 @@ Work with Jupyter-style notebooks directly in the browser. Experiment with code,
 
 ---
 
-### 📝 Smart Note-Taking
+### Smart Note-Taking
 
 Take notes as you learn with our integrated note-taking system. Organize your thoughts, highlight key concepts, and build your personal knowledge base.
 
@@ -87,7 +89,7 @@ Take notes as you learn with our integrated note-taking system. Organize your th
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Visit our website**: [learningsoftwares.com](https://www.learningsoftwares.com)
 2. **Sign up** for a free account
@@ -96,7 +98,7 @@ Take notes as you learn with our integrated note-taking system. Organize your th
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
@@ -109,29 +111,22 @@ Take notes as you learn with our integrated note-taking system. Organize your th
 
 ---
 
-## 📊 Course Categories
+## Course Categories
 
-- 🧮 **Data Structures & Algorithms** — Master the fundamentals
-- 🏗️ **System Design** — Design scalable systems  
-- 🤖 **Machine Learning** — From basics to LLMs
-- 🐳 **DevOps** — Docker, Kubernetes, CI/CD
-- 🌐 **Backend Development** — APIs, Databases, Security
-- 📱 **Frontend Development** — React, JavaScript, CSS
-- 🐍 **Programming Languages** — Python, Java, C++, JavaScript
-- 🎯 **Interview Prep** — Company-specific system designs
+- **Data Structures & Algorithms** — Master the fundamentals
+- **System Design** — Design scalable systems  
+- **Machine Learning** — From basics to LLMs
+- **DevOps** — Docker, Kubernetes, CI/CD
+- **Backend Development** — APIs, Databases, Security
+- **Frontend Development** — React, JavaScript, CSS
+- **Programming Languages** — Python, Java, C++, JavaScript
+- **Interview Prep** — Company-specific system designs
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We're a closed-source platform, but we welcome feedback and suggestions! Reach out to us through our website.
-
----
-
-## 📬 Contact
-
-- **Website**: [learningsoftwares.com](https://www.learningsoftwares.com)
-- **Email**: contact@learningsoftwares.com
 
 ---
 
