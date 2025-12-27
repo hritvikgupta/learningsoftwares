@@ -8,8 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-learningsoftwares.com-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.learningsoftwares.com)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
-[![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Contribute](https://img.shields.io/badge/Contribute-Join%20Us-10B981?style=for-the-badge&logo=handshake&logoColor=white)](https://www.learningsoftwares.com)
 
 *Seamless simulations, executable code, and deep explanations — all in one place.*
 
@@ -240,7 +239,15 @@ Take notes as you learn with our integrated note-taking system. Organize your th
 
 ## Contributing
 
-We're a closed-source platform, but we welcome feedback and suggestions! Reach out to us through our website.
+Want to contribute content or courses to Learning Software? We'd love to hear from you!
+
+<div align="center">
+
+[![Contribute Now](https://img.shields.io/badge/Contribute%20Now-Apply%20Here-6366F1?style=for-the-badge&logo=handshake&logoColor=white)](https://www.learningsoftwares.com)
+
+</div>
+
+Visit our website and click the **"Create Course"** button to submit your course proposal. Share your LinkedIn profile and course idea, and our team will get back to you!
 
 ---
 
